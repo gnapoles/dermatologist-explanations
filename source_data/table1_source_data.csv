@@ -1,0 +1,9 @@
+Diagnostic rule,Concept labels read,Test images,All images,Source
+Melanoma simulator absent,1,0.98,0.989,Computed from the concept labels
+Grey patterns present,1,0.98,0.97,Computed from the concept labels
+Thick reticular lines present,1,0.955,0.952,Computed from the concept labels
+Two or more melanoma concepts (Chanda et al.),10,1.0,0.997,Computed from the concept labels
+Any melanoma concept present,10,1.0,1.0,Computed from the concept labels
+XAI reading the images,,0.81,,Reported by Chanda et al.
+Clinicians without AI (phase 1),,0.66,,Reported by Chanda et al.
+Clinicians with XAI (phase 3),,0.73,,Reported by Chanda et al.
